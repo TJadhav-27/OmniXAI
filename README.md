@@ -470,3 +470,6 @@ If you have any questions, comments or suggestions, please do not hesitate to co
 
 ## License
 [BSD 3-Clause License](LICENSE)
+
+
+-TJ says that this is an amazing project
